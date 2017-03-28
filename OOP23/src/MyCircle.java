@@ -60,7 +60,7 @@ public class MyCircle {
 	}
 	
 	public String toString() {
-		return "MyCircle[radius = " + radius + " , center = " + center;
+		return "MyCircle[radius = " + radius + " , center = " + center + "]";
 	}
 	
 	public double getArea() {
